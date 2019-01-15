@@ -5,7 +5,7 @@ Project helloplus (maven, appache-cli, appache-csv)
 
 Application permettant de lire un fichier CSV
 * Auteur : RUÉ Guillaume
-* Licence : 
+* Licence : General Public Licence v3.0
 
 ## Install
 
