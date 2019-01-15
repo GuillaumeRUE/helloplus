@@ -1,17 +1,19 @@
-# helloplus
-Project helloplus (maven, appache-cli, appache-csv)
+# Projet HelloPlus
 
-## Description
+Ce projet correpond à l'exercice vue en cours de M1 MIAGE afin de prendre en main l'IDE Eclipse, avec l'outil Maven.
 
-Application permettant de lire un fichier CSV
-* Auteur : RUÉ Guillaume
-* Licence : General Public Licence v3.0
+Il permet de lire un fichier CSV qui contient des noms et prénoms d'étudiants de la promotion en y ajoutant "Hello" avant.
 
-## Install
+## Exemple
 
-## Usage
 
-## Documentation technique
 
-in progress..
+## Auteur
+
+Guillaume RUÉ
+
+## Licence
+
+Ce projet est distribué sous licence
+
 
